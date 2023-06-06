@@ -1,0 +1,38 @@
+
+   76  git init
+   77  git remote add origin https://github.com/fedecaruso1994/20230605-FedericoCaruso.git
+   78  git remote -v
+   79  touch comandos.txt main.js index.html
+   80  git add .
+   81  git status
+   82  git commit -m "commit 01 de FedeCaruso"
+   83  git push origin main
+   84  git branch feature01
+   85  git checkout feature01
+   86  mkdir Terminal Hardware
+   87  tocuh Termina/resumen.txt Hardware/resumen.txt
+   88  touch Termina/resumen.txt Hardware/resumen.txt
+   89  touch Terminal/resumen.txt
+   90  git add .
+   91  git status
+   92  git commit -m "commit 02 de Fede Caruso"
+   93  git push feature01
+   94  git push "feature01"
+   95  git remote -v
+   96  git push feature01
+   97  git remote -v
+   98  git push feature01
+   99  git remote add festure01 https://github.com/fedecaruso1994/20230605-FedericoCaruso.git
+  100  git push feature01
+  101  git push origin feature01
+  102  git branch feature 02
+  103  git branch feature02
+  104  git checkout feature02
+  105  git add .
+  106  git commit -m "commit 03 de FedeCaruso"
+  107  git push origin feature02
+  108  git checkout origin main
+  109  git checkaout main
+  110  git checkout main
+  111  mv comandos.txt comandosUtilizados.txt
+  112  history
